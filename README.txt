@@ -1,7 +1,6 @@
-Contents
-  Assignments:
+Contents : Assignments :
      Section 0: 20 - ALL COMPLETED
-     Section 1: 21-38 - WORKING
-     Section 2:
+     Section 1: 21-38 - ALL COMPLETED
+     Section 2: 1-14 - WORKING
      Section 3:
      Section 4:
