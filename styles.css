@@ -4,3 +4,6 @@ head{
 h1{
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 }
+p{
+	font-size: 20px;
+}
