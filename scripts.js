@@ -1,4 +1,4 @@
 function msg()
 {
-    alert("Welcome to Capgemini");
+    alert("Welcome Freshers");
 }
